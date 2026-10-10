@@ -1,0 +1,8 @@
+{
+  "name": "Elite Packages ERP",
+  "description": "Complete order-to-cash rotogravure printing ERP for Elite Packages (Pakistan): Sales, Cylinder register, Material issue, Production runs, QC, Dispatch, Invoicing, and Stock Ledger with Excel export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="104" fill="#0f172a"/>
+  <circle cx="256" cy="256" r="210" stroke="#f59e0b" stroke-width="16" fill="#1e293b"/>
+  <!-- Rotogravure Cylinder Graphic -->
+  <rect x="176" y="140" width="160" height="232" rx="24" fill="#334155" stroke="#f59e0b" stroke-width="8"/>
+  <rect x="196" y="160" width="120" height="40" rx="8" fill="#f59e0b" opacity="0.9"/>
+  <rect x="196" y="215" width="120" height="24" rx="6" fill="#38bdf8"/>
+  <rect x="196" y="250" width="120" height="24" rx="6" fill="#f59e0b"/>
+  <rect x="196" y="285" width="120" height="24" rx="6" fill="#10b981"/>
+  <rect x="196" y="320" width="120" height="32" rx="6" fill="#6366f1"/>
+  <!-- Elite Packaging Engraved Monogram -->
+  <circle cx="256" cy="256" r="48" fill="#0f172a" stroke="#f59e0b" stroke-width="6"/>
+  <text x="256" y="268" font-family="Arial, sans-serif" font-weight="900" font-size="34" fill="#f59e0b" text-anchor="middle">EP</text>
+  <!-- Roller Axis Pin -->
+  <line x1="256" y1="90" x2="256" y2="140" stroke="#94a3b8" stroke-width="16" stroke-linecap="round"/>
+  <line x1="256" y1="372" x2="256" y2="422" stroke="#94a3b8" stroke-width="16" stroke-linecap="round"/>
+</svg>
